@@ -1,0 +1,7 @@
+numpy>=1.19.0
+opencv-python>=4.5.0
+pillow>=8.0.0
+scikit-image>=0.18.0
+customtkinter>=4.6.0
+onnxruntime>=1.14.0  # For the Stable Diffusion Lite model
+psutil>=5.9.0  # For system resource monitoring
